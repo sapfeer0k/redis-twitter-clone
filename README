@@ -1,0 +1,1 @@
+This project was developed to show possibilies of Redis. This is almos full-featured twitter clone without UI. The project consists api functions(users/tweets manipulations) in general.But also has a built-in smarty template engine. Feel free to use it!
